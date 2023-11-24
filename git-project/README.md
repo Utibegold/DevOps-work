@@ -61,3 +61,103 @@
 
 
 
+
+
+
+## Collaboration and Remote Repositories ##
+
+- Creating a Github account.
+- To create a Github account: Visit github.com
+
+![github](./images/today/creating%20github%201.png)
+
+
+## Creating first repository ##
+
+steps :
+
+- Click on the plus sign on the top right corner of the github account
+
+- Click on new repository to create a new one
+
+- add a unique name, description and tick Readme to add a readme file
+
+![repo](./images/today/create%20new%20repo%202.png)
+
+
+## pushing local git repository to Remote git repository
+
+- run git remote add origin (remote repository link)
+- run git push origin (branch name)
+- i.e `git push origin main`
+
+
+![git push](./images/)
+
+
+## Branch management and tagging ##
+
+1. To create a Heading
+
+
+-  # Project 1
+
+-  ## Project 2
+
+- ### Project 3
+
+
+
+![tag](./images/today/To%20create%20a%20Heading%203.png)
+
+
+2. To Create emphasis
+
+
+
+Use asterick
+
+- run *Italic*
+
+- **Bold**
+
+
+
+3. To create a list - ordered and unordered list
+
+- **Unordered list**
+
+- Item 1
+
+- Item 2
+- Item 3
+
+
+**Ordered list**
+
+1. First item
+
+2. Second item
+
+3. Third item
+
+4. Links: To create a hyperlink.
+
+- Run [text link](www.darey.io)
+
+5. To display images
+
+- Run ![Alt Text](https://example.com/image.jpg)
+
+6. To display code or code snippets
+
+
+
+- ` console . log (' Welcome to darey.io)`
+
+
+![console](./images/console.png)
+
+
+
+
