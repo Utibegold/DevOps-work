@@ -92,7 +92,9 @@ steps :
 - i.e `git push origin main`
 
 
-![git push](./images/)
+![git push](./images/git%20push.png) 
+
+
 
 
 ## Branch management and tagging ##
