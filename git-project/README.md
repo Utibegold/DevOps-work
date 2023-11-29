@@ -67,9 +67,14 @@
 ## Collaboration and Remote Repositories ##
 
 - Creating a Github account.
-- To create a Github account: Visit github.com
+- To create a Github account: Visit github
+![gith](./images/creating%20github%201.png)
 
-![github](./images/today/creating%20github%201.png)
+
+
+
+
+
 
 
 ## Creating first repository ##
@@ -81,8 +86,7 @@ steps :
 - Click on new repository to create a new one
 
 - add a unique name, description and tick Readme to add a readme file
-
-![repo](./images/today/create%20new%20repo%202.png)
+![rep](./images/create%20new%20repo%202.png)
 
 
 ## pushing local git repository to Remote git repository
@@ -110,7 +114,8 @@ steps :
 
 
 
-![tag](./images/today/To%20create%20a%20Heading%203.png)
+
+![heads](./images/To%20create%20a%20Heading%203.png)
 
 
 2. To Create emphasis
@@ -149,7 +154,7 @@ Use asterick
 
 5. To display images
 
-- Run ![Alt Text](https://example.com/image.jpg)
+- Run ![Alt Text] (https://example.com/image.jpg)
 
 6. To display code or code snippets
 
