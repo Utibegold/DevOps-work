@@ -93,7 +93,15 @@ Above are screenshots demontrtions of the projects
 
 ![](./images/creat.%20L15.png)
 ![](./images/dat%20L16.png)
-![](./images/L17.png)
+
+
+This is the successful implementation of nginx in this project.
+in this implementation, i used sudo apt install nginx and sudo systemctl to be sure of the status of it. note that nginx main configuration file is usually located at the `/etc/nginx/nginx. cong`.
+
+
+![](./images/L17.png![nginx](./images/Nginx%20int.L7.png)
+
+
 
 
 
